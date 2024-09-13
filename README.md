@@ -5,20 +5,20 @@
 
 ## Summary:
 
-This project focuses on building an ETL (Extract, Transform, Load) pipeline to manage and analyze road traffic data from various toll plazas with the aim of alleviating congestion on national highways. It is my solution for the final project of the IBM Coursera course "ETL and Data Pipelines with Shell, Airflow, and Kafka."
+This project focuses on designing and implementing an ETL (Extract, Transform, Load) pipeline to manage and analyze road traffic data from multiple toll plazas, aiming to reduce congestion on national highways. It serves as my final project for the IBM Coursera course, "ETL and Data Pipelines with Shell, Airflow, and Kafka."
 
 ## Objectives
 
-* Collect and consolidate data available in different formats (.csv, .tsv, .txt) into a single file.
-* Create an ETL pipeline using Apache Airflow.
-* Build a streaming ETL pipeline using Apache Kafka.
+* Aggregate and standardize data from various formats (.csv, .tsv, .txt) into a unified file
+* Develop an ETL pipeline using Apache Airflow for automated data processing.
+* Build a real-time streaming ETL pipeline using Apache Kafka
 
 ## Project Scenario
 
-As a data engineer, the task is to harmonize road traffic data from multiple toll operators, each using different file formats, to derive insights that contribute to smoother traffic flow on national highways. The project involves:
+As a data engineer, the goal is to unify road traffic data from different toll operators who use diverse file formats, enabling insights that promote smoother traffic flow across national highways. The project involves:
 
-- Collecting and consolidating data from different formats.
-- Creating a data pipeline to collect streaming data from Kafka and load it into a PostgreSQL database.
+- Aggregating and standardizing data from multiple formats.
+- Developing a data pipeline to stream real-time data via Kafka and load it into a PostgreSQL database for analysis.
 
 ## Tools and Technologies Used:
 
