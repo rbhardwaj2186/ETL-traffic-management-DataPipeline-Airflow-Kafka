@@ -1,6 +1,7 @@
 # ETL Traffic Management data pipeline with Airflow and Kafka
 
-![alt text](IA-image.png)
+![image](https://github.com/user-attachments/assets/d788db49-72fe-49df-982d-3832c7257b17)
+
 
 ## Summary:
 
